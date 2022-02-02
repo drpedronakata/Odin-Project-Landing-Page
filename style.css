@@ -61,7 +61,7 @@ body {
     margin: 0;
 }
 
-.secundary {
+.information .secundary {
     font-size: 18px;
     color: #E5E7EB;
     margin: 0;
@@ -144,5 +144,51 @@ body {
     font-weight: bold;
     color: #1F2937;
     margin: 0;
+}
+
+.call-area {
+    padding: 100px 10%;
+}
+
+.call-area .container {
+    display: flex;
+    background-color: #3882F6;
+    padding: 50px 10%;
+    justify-content: space-between;
+    align-items: center;
+    border: none;
+    border-radius: 8px;
+    border: 2px solid #3882F6;
+}
+
+.container .text {
+    width: auto;
+}
+
+.text p {
+    margin: 0;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.text .main {
+    font-weight: bold;
+}
+
+.text .sub {
+    font-weight: lighter;
+    font-size: 18px;
+}
+
+.container button {
+    padding: 5px 30px;
+    border: none;
+    border-radius: 8px;
+    border: 2px solid white;
+    background: #3882F6;
+    font-size: 18px;
+    font-weight: bolder;
+    color: #E5E7EB;
+    width: auto;
 }
 
