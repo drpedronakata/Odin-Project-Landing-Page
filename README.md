@@ -12,8 +12,8 @@
   <li>Many of the elements on this page are very similar to things you saw in our flexbox exercises… feel free to go back to those if you need a refresher.</li>
   <li>Do not worry about making your project look nice on a mobile device. We’ll learn that later.</li>
   <li>When you finish, don’t forget to push it up to GitHub!</li>
-</ol
+</ol>
 <h2>Conclusao</h2>
-<p>Finalmente concluir o projeto, demorei em media 1-2h para cada divisao do site(base do index e css, hero, footer...). Mas demorei para terminar o projeto em 2 semanas pois apenas usei 1-2h por dia, e boa parte dos dias nao trabalhei no site...</p>
+<p>Finalmente conclui o projeto, demorei em media 1-2h para cada divisao do site(base do index e css, hero, footer...). Mas demorei para terminar o projeto em 2 semanas pois apenas usei 1-2h por dia, e boa parte dos dias nao trabalhei no site...</p>
 <p>Mas foi extremamente interessante usar todos os recursos que aprendi durante o curso, ver o site sendo concluido com base na foto original foi bastante gratificante.</p>
 <p>Mas algo que senti que faltou no projeto foi uma melhor organizacao dos selectors e do html, sinto que preciso melhorar nesses detalhes. Alem tambem da falta de mobile first, algo que irei aprender no proximo passo do curso</p>
