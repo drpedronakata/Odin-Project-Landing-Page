@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 
 body {
     font-family: Roboto, sans-serif;
@@ -22,8 +24,6 @@ body {
 .header .main {
     font-size: 24px;
     font-weight: bold;
-    text-shadow: 0px 1px, 1px 0px, 1px 1px;
-    letter-spacing: 1px;
     color: #F9FAF8;
 }
 
@@ -56,9 +56,7 @@ body {
 
 .information .main {
     font-size: 48px;
-    font-weight: 900;
-    text-shadow: 0px 1px, 1px 0px, 1px 1px;
-    letter-spacing: 1px;
+    font-weight: bold;
     color: #F9FAF8;
     margin: 0;
 }
@@ -94,8 +92,6 @@ body {
 .information-area .header {
     font-size: 36px;
     font-weight: bold;
-    text-shadow: 0px 1px, 1px 0px, 1px 1px;
-    letter-spacing: 1px;
     color: #1F2937;
     text-align: center;
     align-items: center;
@@ -131,12 +127,14 @@ body {
 
 .quote-area {
     background-color: #E5E7EB;
-    padding: 0 10%;
+    padding: 0 22%;
+    padding-top: 50px;
+
 }
 
 .quote p {
     font-size: 36px;
-    font-weight: 0;
+    font-weight: 300;
     font-style: italic;
     color: #1F2937;
 }
