@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
 
 body {
     font-family: Roboto, sans-serif;
@@ -74,7 +74,7 @@ body {
     border-radius: 8px;
     background: #3882F6;
     font-size: 18px;
-    font-weight: 950;
+    font-weight: bolder;
     color: #E5E7EB;
     width: 30%;
 }
